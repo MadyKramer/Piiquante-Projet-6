@@ -1,0 +1,24 @@
+{
+  "name": "p6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadyKramer/p6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadyKramer/p6/issues"
+  },
+  "homepage": "https://github.com/MadyKramer/p6#readme",
+  "dependencies": {
+    "express" : "4.18.1",
+    "mongoose" : "6.3.6",
+    "nodemon" : "2.0.16"
+  }
+}
